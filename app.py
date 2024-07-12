@@ -5,6 +5,7 @@ from time import sleep
 from tqdm import tqdm
 from art import *
 
+os.system("color")
 
 # p . q = mN
 # g^p = mN + 1
